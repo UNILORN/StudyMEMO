@@ -64,3 +64,4 @@ Viewに値を渡したい時 -> `with`
 - `return view('{ファイル名}') -> with('text',$text);`
 - `return view('{ファイル名}',$text);`
 - `return view('{ファイル名}') -> with($hash);`
+
