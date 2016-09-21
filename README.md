@@ -5,3 +5,4 @@
 | `LD`   | Laravel Documents  | Laravel関連     |
 | `SD`   | System Development | システム開発関連  |
 | `SRD`  | System Requirements Document | 要件定義書 |
+|        | Provitional | 構想 |
