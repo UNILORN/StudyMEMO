@@ -6,3 +6,4 @@
 | `SD`   | System Development | システム開発関連  |
 | `SRD`  | System Requirements Document | 要件定義書 |
 |        | Provitional | 構想 |
+| `S`    | Session     | 授業 |
