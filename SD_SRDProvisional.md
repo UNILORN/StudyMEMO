@@ -1,4 +1,12 @@
 # システム開発演習構想
+## 開発環境
+
+- UbuntuServer 16.04LTS
+- PHP7
+- Apache2
+- mysql-server
+- Laravel 5.3
+
 
 ## フロントエンド
 ### URL表でサーバーとのやり取りをする
